@@ -1,0 +1,14 @@
+{
+  "name": "dev-dashboard",
+  "version": "1.0.0",
+  "description": "dev-dashboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "see"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
